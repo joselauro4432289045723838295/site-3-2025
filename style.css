@@ -27,3 +27,9 @@ body {
 h1{
     color: var(--cor-destaque);
 }
+.caixa-perguntas {
+ cursor: pointer;
+  
+
+
+}
