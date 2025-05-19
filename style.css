@@ -27,9 +27,10 @@ body {
 h1{
     color: var(--cor-destaque);
 }
-.caixa-perguntas {
+.caixa-alternativa {
  cursor: pointer;
-  
+  background-color: rgb(156, 160, 163);
+  column-rule-color: aquamarine;
 
 
 }
